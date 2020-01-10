@@ -6,18 +6,18 @@ Aquest projecte està enfocat en el disseny i desenvolupament d'una aplicació d
 
 La temàtica del vostre projecte ha d'estar centrada en un dels 3 eixos següents:
 
-    pendent-pendent-pendent-pendent-pendent
+    pendent
 
 ## Tasques a realizar
 
 ### Lógica
 
-[pendent]
+    pendent
 
 ### Base de datos
 
-[pendent]
+    pendent
 
 ### App web
 
-[pendent]
+    pendent
