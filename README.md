@@ -2,7 +2,8 @@
 
 ### Projecte del cicle de DAW DUAL del CIFP Francesc de Borja Moll
 
-[Aquí la descripció del Projecte]
+Aquest projecte consisteix en el disseny i desenvolupament d'una aplicació. 
+[link](http://www.programmemiro.fr/miro-in-cube/es/)
 
 ## Tasques a realizar
 
