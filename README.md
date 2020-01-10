@@ -1,4 +1,4 @@
-# PT2 - 2n Curs DAW Dual
+# PT2 - "IA + Turisme"
 
 ### Projecte del cicle de DAW DUAL del CIFP Francesc de Borja Moll
 
