@@ -6,8 +6,7 @@ Aquest projecte està enfocat en el disseny i desenvolupament d'una aplicació d
 
 La temàtica del vostre projecte ha d'estar centrada en un dels 3 eixos següents:
 
-
-<span style="color:red">pendent</span>
+    pendent-pendent-pendent-pendent-pendent
 
 ## Tasques a realizar
 
