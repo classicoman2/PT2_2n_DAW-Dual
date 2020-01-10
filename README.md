@@ -21,3 +21,10 @@ La temàtica del vostre projecte ha d'estar centrada en un dels 3 eixos següent
 ### App web
 
     pendent
+### Entregues
+El codi de la vostra aplicació ha d’estar disponible en un repositori de Github. En aquest repos es trobarà:
+* Tot el codi de l’aplicació
+* L’enllaç a la *url* en el qual s’ha realitzat el desplegament de l’aplicació (en cas d'haver-lo realitzat)
+* La documentació, escrita en format MarkDown en el fitxer README.MD
+
+Per favor, inseriu tan aviat com sigui possible l’enllaç al vostre repositori de Github [en aquest full](https://docs.google.com/spreadsheets/d/1FixUlq-GTvYyesiMveXqQXBJHB8PvEcZjMoXzAhiySw/edit#gid=0)
