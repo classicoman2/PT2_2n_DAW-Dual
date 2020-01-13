@@ -22,7 +22,7 @@ La temàtica del vostre projecte ha d'estar centrada en un dels 3 eixos següent
 
     pendent
 ### Entregues
-El codi de la vostra aplicació ha d’estar disponible en un repositori de Github. En aquest repos es trobarà:
+El codi de la vostra aplicació ha d’estar disponible en un repositori de Github. En aquest repositori es trobarà:
 * Tot el codi de l’aplicació
 * L’enllaç a la *url* en el qual s’ha realitzat el desplegament de l’aplicació (en cas d'haver-lo realitzat)
 * La documentació, escrita en format MarkDown en el fitxer README.MD
