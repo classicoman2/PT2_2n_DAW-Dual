@@ -9,6 +9,12 @@ La temàtica del vostre projecte ha d'estar centrada en un dels 3 eixos següent
     pendent
 
 ## Tasques a realizar
+### Disseny d'Interfície Web
+Heu de desenvolupar la interficie gràfica seguit aquests requeriments:
+#### Requeriments tècnics
+* Hem d'emprar **Vue.js** per a crear l'estructura del layout, preferentment **Vue CLI 3**
+* Heu d'emprar una llibreria per al disseny de la web. Podeu triar entre _Bootstrap_ i _Material Design_
+* Opcionalment, podeu emprar els Frameworks integrats [Vuetify](https://vuetifyjs.com/en/) - Vue + Material Design - o [Bootstrap Vue](https://bootstrap-vue.js.org/) que us permeten integrar Vue amb la llibreria que trieu.
 
 ### Lógica
 
