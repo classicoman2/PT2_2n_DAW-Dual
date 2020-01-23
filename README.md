@@ -2,6 +2,13 @@
 
 Projecte del cicle de DAW DUAL del CIFP Francesc de Borja Moll
 
+- [PT2 - "IA + Turisme"](#pt2---ia--turisme)
+  * [Descripció](#descripcio)
+  * [Tasques a realizar - Design of Web Interfaces](#tasques-a-realizar---design-of-web-interfaces)
+    + [Technical Requirements](#technical-requirements)
+    + [Visual Requirements](#visual-requirements)
+- [Entrega](#entrega)
+
 ## Descripció
 
 Aquest projecte està enfocat en el disseny i desenvolupament d'una aplicació dins de els terminis establerts pel [*Hackaton Miro in Cube 2020*](http://www.programmemiro.fr/miro-in-cube/es/)
