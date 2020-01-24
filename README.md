@@ -25,11 +25,11 @@ You must create the interface according to the following requirements.
 
 ### Technical Requirements
 
-_ Use **Vue.js** to create the structure of the layout, taking advantage of Vue _Components_. Preferently, you should use **Vue CLI 3** and the _Single Page Components_ to structure your site
-_ It's mandatory to use a library to create the layout. You can choose between _Bootstrap 4_  and _Material Design_. Please, use `npm`to install the library
-_ Optionally, you can use one of these integrated framework (it's not mandatory and it doesn't affect the qualification of the project)
-   _ [Vuetify](https://vuetifyjs.com/en/) (Vue + Material Design)  or
-   _ [Bootstrap Vue](https://bootstrap-vue.js.org/) (Vue + Bootstrap)
+- Use **Vue.js** to create the structure of the layout, taking advantage of Vue _Components_. Preferently, you should use **Vue CLI 3** and the _Single Page Components_ to structure your site
+- It's mandatory to use a library to create the layout. You can choose between _Bootstrap 4_  and _Material Design_. Please, use `npm`to install the library
+- Optionally, you can use one of these integrated framework (it's not mandatory and it doesn't affect the qualification of the project)
+  - [Vuetify](https://vuetifyjs.com/en/) (Vue + Material Design)  or
+  - [Bootstrap Vue](https://bootstrap-vue.js.org/) (Vue + Bootstrap)
 
 ### Visual Requirements
 
