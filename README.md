@@ -25,9 +25,11 @@ You must create the interface according to the following requirements.
 
 ### Technical Requirements
 
-* Use **Vue.js** to create the structure of the layout, taking advantage of Vue _Components_. It is recommended to use **Vue CLI 3** and the _Single Page Components_ to structure the site (although it is not mandatory to use Vue CLI 3)
-* Use a library to create the layout. You can use whatever front library you want.
-* Optionally (If you want to), you can use one of these two integrated frameworks (it won't affect the qualification)
+1 Use **Vue.js** to create the structure of the layout, taking advantage of Vue _Components_. It is recommended to use **Vue CLI 3** and the _Single Page Components_ to structure the site (although it is not mandatory to use Vue CLI 3)
+2 Use a library to create the layout. You can use whatever front library you want.
+
+
+Optionally (If you want to), you can use one of these two integrated frameworks (it won't affect the qualification)
   * [Vuetify](https://vuetifyjs.com/en/) (Vue + Material Design)
   * [Bootstrap Vue](https://bootstrap-vue.js.org/) (Vue + Bootstrap)
 
