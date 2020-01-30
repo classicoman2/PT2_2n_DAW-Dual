@@ -25,9 +25,9 @@ You must create the interface according to the following requirements.
 
 ### Technical Requirements
 
-1 Use **Vue.js** to create the structure of the layout, taking advantage of Vue _Components_. It is recommended to use **Vue CLI 3** and the _Single Page Components_ to structure the site (although it is not mandatory to use Vue CLI 3)
-2 Use a library to create the layout. You can use whatever front library you want.
-
+1. Use **Vue.js** to create the structure of the layout, taking advantage of Vue _Components_. It is recommended to use **Vue CLI 3** and the _Single Page Components_ to structure the site (although it is not mandatory to use Vue CLI 3)
+2. Use a **library** to create the layout. You can use whatever front library you want.
+3. If you're working in a group, every member of the group must have made at least 1 **pull request & merge** every 10 days. If this requirement is not fulfilled by a member of the group, it will penalize the qualification of that member.  
 
 Optionally (If you want to), you can use one of these two integrated frameworks (it won't affect the qualification)
   * [Vuetify](https://vuetifyjs.com/en/) (Vue + Material Design)
@@ -35,7 +35,8 @@ Optionally (If you want to), you can use one of these two integrated frameworks 
 
 ### Visual Requirements
 
-- Follow as much as possible the usability and UX principles we've seen in class 
+1. A **mockup** of the project has been created (using a program or by hand in a piece of paper) and stored in a folder named `/mockup` in the repository
+2. Follow as much as possible the usability and UX principles we've seen in class or/and you've learned at work.
 
 ## Entrega
 
