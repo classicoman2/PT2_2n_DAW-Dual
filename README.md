@@ -7,6 +7,9 @@ Projecte del segon curs del cicle de DAW DUAL del CIFP Francesc de Borja Moll
   * [Tasques a realizar - Design of Web Interfaces](#tasques-a-realizar---design-of-web-interfaces)
     + [Technical Requirements](#technical-requirements)
     + [Visual Requirements](#visual-requirements)
+    + [Checkpoints](#checkpoints)
+      - [#Checkpoint1](#checkpoint1)
+      - [#Checkpoint2](#checkpoint1)
 - [Entrega](#entrega)
 
 ## Descripció
@@ -33,7 +36,35 @@ You must create the interface according to the following requirements.
 
 ### Visual Requirements
 
-- Follow as much as possible the usability and UX principles we've seen in class 
+- Follow as much as possible the usability and UX principles we've seen in class.
+
+### Checkpoints
+
+#### SPRINT:  #Checkpoint-1
+
+Deadline:  **Tuesday 4/2**
+
+For this Sprint, this tasks must have been completed:
+
+- A Private Github Repository has been created (add me - classicoman2 - as a collaborator), containing a README.MD with:
+  - Version of Vue you're going to use (CDN Vue.js or VUE CLI 3?)
+  - Library you're going to use (Bootstrap 4, Materialize, ....)
+  - Choose if you're focusing on a Mobile first approach or on a Desktop Application.
+  - A mockup for Mobile or Desktop, that you can do it in a paper or using a tool has been presented  -> add the photos in a folder in your repository named  /mockup
+
+#### Checkpoint 2
+
+Deadline: **Monday 10/2 on 23:59**
+
+Now that you've created a repo and a mockup, you have to start (or continue) working in your Project.
+For this 2nd Checkpoint, you have to:
+
+- Add the description of your Trimestral Project - max 200 words - in the README.MD file of your repository in English (in the root directory of the repository!!!)
+- Create an Issue in your repository. In this Issue, you have to set up a significative task you're going to complete before the deadline.
+- Implement this task and commit it to Github. Preferently, create a branch of the master and make a Pull Request + Merge in the master
+- Close the Issue.
+
+The fulfillment of this Checkpoint 2 will have an incidence (between 4% and 8%) in the qualification of the Trimestral Project.
 
 ## Entrega
 
