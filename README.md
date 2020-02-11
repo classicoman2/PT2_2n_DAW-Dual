@@ -7,9 +7,8 @@ Projecte del segon curs del cicle de DAW DUAL del CIFP Francesc de Borja Moll
   * [Tasques a realizar - Design of Web Interfaces](#tasques-a-realizar---design-of-web-interfaces)
     + [Technical Requirements](#technical-requirements)
     + [Visual Requirements](#visual-requirements)
-    + [Checkpoints](#checkpoints)
-      - [#Checkpoint1](#sprint:--#checkpoint-1)
-      - [#Checkpoint2](#sprint:--#checkpoint-2)
+    + [#Checkpoint1](#sprint: #checkpoint-1)
+    + [#Checkpoint2](#sprint: #checkpoint-2)
 - [Entrega](#entrega)
 
 ## Descripció
@@ -36,9 +35,7 @@ You must create the interface according to the following requirements.
 
 - Follow as much as possible the usability and UX principles we've seen in class.
 
-### Checkpoints
-
-#### SPRINT:  #Checkpoint-1
+### SPRINT:  #Checkpoint-1
 
 Deadline:  **Tuesday 4/2**
 
@@ -50,7 +47,7 @@ For this Sprint, this tasks must have been completed:
   - Choose if you're focusing on a Mobile first approach or on a Desktop Application.
   - A mockup for Mobile or Desktop, that you can do it in a paper or using a tool has been presented  -> add the photos in a folder in your repository named  /mockup
 
-#### SPRINT:  #Checkpoint-2
+### SPRINT:  #Checkpoint-2
 
 Deadline: **Monday 10/2**
 
