@@ -8,8 +8,8 @@ Projecte del segon curs del cicle de DAW DUAL del CIFP Francesc de Borja Moll
     + [Technical Requirements](#technical-requirements)
     + [Visual Requirements](#visual-requirements)
     + [Checkpoints](#checkpoints)
-      - [#Checkpoint1](#checkpoint1)
-      - [#Checkpoint2](#checkpoint1)
+      - [#Checkpoint1](#sprint:--#checkpoint-1)
+      - [#Checkpoint2](#sprint:--#checkpoint-2)
 - [Entrega](#entrega)
 
 ## Descripció
@@ -52,7 +52,7 @@ For this Sprint, this tasks must have been completed:
 
 #### SPRINT:  #Checkpoint-2
 
-Deadline: **Monday 10/2 on 23:59**
+Deadline: **Monday 10/2**
 
 Now that you've created a repo and a mockup, you have to start (or continue) working in your Project.
 For this 2nd Checkpoint, you have to:
