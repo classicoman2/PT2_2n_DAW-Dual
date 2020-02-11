@@ -14,7 +14,7 @@ Projecte del segon curs del cicle de DAW DUAL del CIFP Francesc de Borja Moll
 
 ## Descripció
 
-Aquest projecte està enfocat en el disseny i desenvolupament d'una aplicació dins de els terminis establerts pel [*Hackaton Miro in Cube 2020*](http://www.programmemiro.fr/miro-in-cube/es/)
+Aquest projecte està enfocat en el disseny i desenvolupament d'una aplicació dins de els termes establerts pel [*Hackaton Miro in Cube 2020*](http://www.programmemiro.fr/miro-in-cube/es/)
 
 La temàtica del vostre projecte ha d'estar centrada en un dels 3 eixos següents:
 
@@ -28,11 +28,9 @@ You must create the interface according to the following requirements.
 
 ### Technical Requirements
 
-- Use **Vue.js** to create the structure of the layout, taking advantage of Vue _Components_. Preferently, you should use **Vue CLI 3** and the _Single Page Components_ to structure your site
-- It's mandatory to use a library to create the layout. You can choose between _Bootstrap 4_  and _Material Design_. Please, use `npm`to install the library
-- Optionally, you can use one of these two integrated frameworks (it's not mandatory and it doesn't affect the qualification of the project)
-  - [Vuetify](https://vuetifyjs.com/en/) (Vue + Material Design)
-  - [Bootstrap Vue](https://bootstrap-vue.js.org/) (Vue + Bootstrap)
+- [ ] Use **Vue.js** to create the structure of the layout, taking advantage of Vue _Components_. It is recommended to use **Vue CLI 3** and the _Single Page Components_ to structure the site (although it is not mandatory to use Vue CLI 3)
+- [ ] Use a **library** to create the layout. You can use any front library you want
+* It is recommended (although not mandatory and doesn't affect que qualification) to use `Sass` or `SCSS`
 
 ### Visual Requirements
 
@@ -52,7 +50,7 @@ For this Sprint, this tasks must have been completed:
   - Choose if you're focusing on a Mobile first approach or on a Desktop Application.
   - A mockup for Mobile or Desktop, that you can do it in a paper or using a tool has been presented  -> add the photos in a folder in your repository named  /mockup
 
-#### Checkpoint 2
+#### SPRINT:  #Checkpoint-2
 
 Deadline: **Monday 10/2 on 23:59**
 
@@ -70,8 +68,7 @@ The fulfillment of this Checkpoint 2 will have an incidence (between 4% and 8%) 
 
 El codi de la vostra aplicació ha d’estar disponible en un repositori de Github. En aquest repositori es trobarà:
 
-_ Tot el codi de l’aplicació
-_ L’enllaç a la *url* en el qual s’ha realitzat el desplegament de l’aplicació (en cas d'haver-lo realitzat)
-_ La documentació, escrita en format MarkDown en el fitxer README.MD
+- Tot el codi de l’aplicació
+- L’enllaç a la *url* en el qual s’ha realitzat el desplegament de l’aplicació (en cas d'haver-lo realitzat)
 
-Per favor, inseriu tan aviat com sigui possible l’enllaç al vostre repositori de Github [en aquest full](https://docs.google.com/spreadsheets/d/1FixUlq-GTvYyesiMveXqQXBJHB8PvEcZjMoXzAhiySw/edit#gid=0)
+Per favor, inseriu tot d'una l’enllaç al vostre repositori de Github [en aquest full](https://docs.google.com/spreadsheets/d/1FixUlq-GTvYyesiMveXqQXBJHB8PvEcZjMoXzAhiySw/edit#gid=0)
