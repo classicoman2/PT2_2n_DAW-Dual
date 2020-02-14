@@ -8,10 +8,9 @@ Projecte del segon curs del cicle de DAW DUAL del CIFP Francesc de Borja Moll
     + [(1) Technical Requirements](#1-technical-requirements)
     + [(2) Visual and Accessibility Requirements](#2-visual-and-accessibility-requirements)
     + [(3) Project Management Requirements](#3-project-management-requirements)
-    + [(4) Recomendations (not evalued)](#4-recomendations-not-evalued)
-    + [Mandatory Checkpoints](#mandatory-checkpoints)
-      - [SPRINT: Checkpoint-1 (FINISHED)](#sprint-checkpoint-1-finished)
-      - [SPRINT: Checkpoint-2 (FINISHED)](#sprint-checkpoint-2-finished)
+    + [(4) Recomendations (not evaluated)](#4-recomendations-not-evalued)
+    + [SPRINT: Checkpoint-1 (FINISHED)](#sprint-checkpoint-1-finished)
+    + [SPRINT: Checkpoint-2 (FINISHED)](#sprint-checkpoint-2-finished)
   * [Entrega](#entrega)
 
 ## Descripció
@@ -43,7 +42,7 @@ Create the interface according to the following requirements:
 - [ ] Use a Project Management Tool, for instance use [Github Projects and Issues](https://github.com/classicoman2/skills2020-quick-website-develop) that you can set up in the Github Repository of your project
 - [ ] If you don't use Github Projects and Issues, set the link to the Project Management page you've been using at the top of the README.MD file of your repo
 
-### (4) Recomendations (not evalued)
+### (4) Recomendations (not evaluated)
 
 * It's recommended to use **Vue CLI 3** and _Single Page Components_ to build the website
 
