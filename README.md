@@ -26,31 +26,30 @@ La temàtica del vostre projecte ha d'estar centrada en un dels 3 eixos següent
 
 ## Tasques a realizar - Design of Web Interfaces
 
-You must create the interface according to the following requirements.
+Create the interface according to the following requirements:
 
 ### (1) Technical Requirements
 
-- [ ] Use **Vue.js** to create the structure of the layout, taking advantage of Vue _Components_.
+- [ ] Use **Vue.js** to create the structure of the layout, taking advantage of _Vue Components_
 - [ ] Use a **library** to create the layout. You can use any front library you want
 
 ### (2) Visual and Accessibility Requirements
 
 - [ ] Follow as much as possible the usability and UX principles we've seen in class when creating the layouts of your application
-- [ ] **NEW!** Follow the Accessibility principles seen in class in the input fields and labels of your application and in the filtering fields. 
+- [ ] **NEW!** Follow the Accessibility principles seen in class in the input fields and labels of your application and in the filtering fields.
 
 ### (3) Project Management Requirements
 
-- [ ] Use a Project Management Tool. An easy to use and practical tool is [Github Projects and Issues](https://github.com/classicoman2/skills2020-quick-website-develop) that you can set up in the Github Repository of your project. 
+- [ ] Use a Project Management Tool, for instance use [Github Projects and Issues](https://github.com/classicoman2/skills2020-quick-website-develop) that you can set up in the Github Repository of your project
+- [ ] If you don't use Github Projects and Issues, set the link to the Project Management page you've been using at the top of the README.MD file of your repo
 
 ### (4) Recomendations (not evalued)
 
-* It is recommended to use **Vue CLI 3** and _Single Page Components_ to structure the site
+* It's recommended to use **Vue CLI 3** and _Single Page Components_ to build the website
 
-### Mandatory Checkpoints
+### SPRINT: Checkpoint-1 (DONE)
 
-#### SPRINT: Checkpoint-1 (FINISHED)
-
-Deadline:  **Tuesday 4/2**
+`Deadline:`  **Tuesday 4/2**
 
 For this Sprint, the following tasks should have been completed:
 
@@ -62,9 +61,9 @@ For this Sprint, the following tasks should have been completed:
 
 `The fulfillment of **Checkpoint 1** has incidence of **12.5%** of the qualification of the Trimestral Project (DIW part)`
 
-#### SPRINT: Checkpoint-2 (FINISHED)
+### SPRINT: Checkpoint-2 (DONE)
 
-Deadline: ~~Monday 10/2~~ **Tuesday 11/2 at 15.45h**
+`Deadline:` ~~Monday 10/2~~ **Tuesday 11/2 at 15.45h**
 
 Now that you've created a repo and a mockup, you have to start (or continue) working in your Project.
 For this Sprint, the following tasks should have been completed:
@@ -80,7 +79,6 @@ For this Sprint, the following tasks should have been completed:
 El codi de la vostra aplicació ha d’estar disponible en un repositori de Github. En aquest repositori es trobarà:
 
 * Tot el codi de l’aplicació
-
 * L’enllaç a la *url* en el qual s’ha realitzat el **desplegament de l’aplicació**
 
 Per favor, inseriu tot d'una l’enllaç al vostre repositori de Github [en aquest full](https://docs.google.com/spreadsheets/d/1FixUlq-GTvYyesiMveXqQXBJHB8PvEcZjMoXzAhiySw/edit#gid=0)
