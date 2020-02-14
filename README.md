@@ -54,12 +54,16 @@ Deadline: ~~Monday 10/2~~ **Tuesday 11/2 at 15.45h**
 Now that you've created a repo and a mockup, you have to start (or continue) working in your Project.
 For this Sprint, the following tasks should have been completed:
 
-* Add the description of your Trimestral Project - maximum 200 words - in the README.MD file of your repository in English (in the root directory of the repository!)
+-[ ] Add the description of your Trimestral Project - maximum 200 words - in the README.MD file of your repository in English (in the root directory of the repository!)
 * Create an **Issue** in your repository where you'll explain and set up a significative task you're going to complete before the deadline of this checkpoint.
 * Implement this task and commit it to Github. Preferently, create a _branch_ and make a **Pull Request + Merge** in the master when you finish.
 * Close the Issue when you've finished.
 
 The fulfillment of **Checkpoint 2** will have an incidence of **7.5%** of the qualification of the Trimestral Project (DIW part)
+
+### Project Management
+
+Use a Project Management Tool. An easy to use and practical tool is [Github Projects and Issues](https://github.com/classicoman2/skills2020-quick-website-develop) that you can set up in the Github Repository of your project. 
 
 ## Entrega
 
