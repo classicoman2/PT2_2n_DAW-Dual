@@ -52,10 +52,10 @@ Create the interface according to the following requirements:
 
 For this Sprint, the following tasks should have been completed:
 
-- [x] A Private Github Repository has been created (add me - classicoman2 - as a collaborator), containing a README.MD with:
-  - Version of Vue you're going to use (CDN Vue.js or VUE CLI 3?)
-  - Library you're going to use (Bootstrap 4, Materialize, ....)
-  - Choose if you're focusing on a Mobile first approach or on a Desktop Application.
+- [x] A Private Github Repository has been created (add me - classicoman2 - as a collaborator).
+- [x] Specify in the README.MD if you're going to use CDN Vue.js or VUE CLI 3
+- [x] Specify in the README.MD which `CSS Library` you're going to use (Bootstrap 4, Materialize, ...)
+- [X] Specify in the README.MD whether you're focusing on a [Mobile first approach](https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00) or on a `Desktop Layout`.
 - [x] A mockup for Mobile or Desktop has been created and stored in a folder of the repository named  ´/mockup´. You can create this mockup by hand in a piece of paper. Explain your ideas as clearly as possible.
 
 `The fulfillment of **Checkpoint 1** has incidence of **12.5%** of the qualification of the Trimestral Project (DIW part)`
