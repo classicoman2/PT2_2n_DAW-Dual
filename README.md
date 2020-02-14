@@ -5,11 +5,14 @@ Projecte del segon curs del cicle de DAW DUAL del CIFP Francesc de Borja Moll
 - [PT2 - "IA + Turisme"](#pt2---ia--turisme)
   * [Descripció](#descripcio)
   * [Tasques a realizar - Design of Web Interfaces](#tasques-a-realizar---design-of-web-interfaces)
-    + [Technical Requirements](#technical-requirements)
-    + [Visual Requirements](#visual-requirements)
-    + [Checkpoint1](#sprint:-checkpoint-1)
-    + [Checkpoint2](#sprint:-checkpoint-2)
-- [Entrega](#entrega)
+    + [(1) Technical Requirements](#1-technical-requirements)
+    + [(2) Visual and Accessibility Requirements](#2-visual-and-accessibility-requirements)
+    + [(3) Project Management Requirements](#3-project-management-requirements)
+    + [(4) Recomendations (not evalued)](#4-recomendations-not-evalued)
+    + [Mandatory Checkpoints](#mandatory-checkpoints)
+      - [SPRINT: Checkpoint-1 (FINISHED)](#sprint-checkpoint-1-finished)
+      - [SPRINT: Checkpoint-2 (FINISHED)](#sprint-checkpoint-2-finished)
+  * [Entrega](#entrega)
 
 ## Descripció
 
