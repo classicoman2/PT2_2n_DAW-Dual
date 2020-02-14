@@ -49,7 +49,7 @@ For this Sprint, the following tasks should have been completed:
 
 ### SPRINT: Checkpoint-2
 
-Deadline: **Monday 10/2**
+Deadline: ~~Monday 10/2~~ **Tuesday 11/2 at 15.45h**
 
 Now that you've created a repo and a mockup, you have to start (or continue) working in your Project.
 For this Sprint, the following tasks should have been completed:
