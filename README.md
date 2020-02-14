@@ -9,8 +9,8 @@ Projecte del segon curs del cicle de DAW DUAL del CIFP Francesc de Borja Moll
     + [(2) Visual and Accessibility Requirements](#2-visual-and-accessibility-requirements)
     + [(3) Project Management Requirements](#3-project-management-requirements)
     + [(4) Recomendations (not evaluated)](#4-recomendations-not-evaluated)
-    + [SPRINT: Checkpoint-1 (FINISHED)](#sprint-checkpoint-1-finished)
-    + [SPRINT: Checkpoint-2 (FINISHED)](#sprint-checkpoint-2-finished)
+    + [SPRINT: Checkpoint-1 (DONE)](#sprint-checkpoint-1-done)
+    + [SPRINT: Checkpoint-2 (DONE)](#sprint-checkpoint-2-done)
   * [Entrega](#entrega)
 
 ## Descripció
