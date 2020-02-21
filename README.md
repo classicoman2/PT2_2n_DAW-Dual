@@ -1,6 +1,6 @@
 # PT2 - "IA + Turisme"
 
-Projecte del segon curs del cicle de DAW DUAL del CIFP Francesc de Borja Moll.
+Projecte del segon curs del cicle de DAW DUAL del CIFP Francesc de Borja Moll (2on Trimestre)
 
 - [PT2 - "IA + Turisme"](#pt2---ia--turisme)
   * [Descripció](#descripcio)
