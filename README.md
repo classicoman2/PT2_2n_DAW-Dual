@@ -37,16 +37,21 @@ Create the interface according to the following requirements:
 - [ ] Follow as much as possible the usability and UX principles we've seen in class when creating the layouts of your application
 - [ ] **NEW!** Follow the Accessibility principles seen in class in the input fields and labels of your application and in the filtering fields.
 
-### (3) Project Management Requirements
+### (3) Accessibility Requirements
+
+- [ ] Create a fully validated and accessible form in your application. This form should have at least 4 fields and should follow the Validation and Accessibility recommendations that we'll see in class
+- [ ] In the groups of 2 people, you should also create an accessible menu
+
+### (4) Project Management Requirements
 
 - [ ] Use a Project Management Tool, for instance use [Github Projects and Issues](https://github.com/classicoman2/skills2020-quick-website-develop) that you can set up in the Github Repository of your project
 - [ ] If you don't use Github Projects and Issues, set the link to the Project Management page you've been using at the top of the README.MD file of your repo
 
-### (4) Recomendations (not evaluated)
+### (5) Recomendations
 
-* It's recommended to use **Vue CLI 3** and _Single Page Components_ to build the website
+- It's recommended (but not mandatory) to use **Vue CLI 3** and _Single Page Components_ to build the website
 
-### SPRINT: Checkpoint-1 (DONE)
+### SPRINT: Checkpoint-1 (FINISHED)
 
 `Deadline:`  **Tuesday 4/2**
 
@@ -60,7 +65,7 @@ For this Sprint, the following tasks should have been completed:
 
 `The fulfillment of **Checkpoint 1** has incidence of **12.5%** of the qualification of the Trimestral Project (DIW part)`
 
-### SPRINT: Checkpoint-2 (DONE)
+### SPRINT: Checkpoint-2 (FINISHED)
 
 `Deadline:` ~~Monday 10/2~~ **Tuesday 11/2 at 15.45h**
 
@@ -73,11 +78,9 @@ For this Sprint, the following tasks should have been completed:
 
 `The fulfillment of **Checkpoint 2** has an incidence of **7.5%** of the qualification of the Trimestral Project (DIW part)`
 
-## Entrega
+## HAND OUT
 
-El codi de la vostra aplicació ha d’estar disponible en un repositori de Github. En aquest repositori es trobarà:
+- [ ] The source code of your app should be available in a repositori on Github. 
+- [ ] If you've deployed your application on Heroku or AWS, please place the *url* on top of the README.MD file
 
-* Tot el codi de l’aplicació
-* L’enllaç a la *url* en el qual s’ha realitzat el **desplegament de l’aplicació**
-
-Per favor, inseriu tot d'una l’enllaç al vostre repositori de Github [en aquest full](https://docs.google.com/spreadsheets/d/1FixUlq-GTvYyesiMveXqQXBJHB8PvEcZjMoXzAhiySw/edit#gid=0)
+And, FIRST OF ALL, please insert the url to your repository [in this Google Sheet](https://docs.google.com/spreadsheets/d/1FixUlq-GTvYyesiMveXqQXBJHB8PvEcZjMoXzAhiySw/edit#gid=0). THANKS!
