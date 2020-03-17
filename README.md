@@ -79,7 +79,7 @@ For this Sprint, the following tasks should have been completed:
 
 `The fulfillment of **Checkpoint 2** has an incidence of **7.5%** of the qualification of the Trimestral Project (DIW part)`
 
-## Tasques a realizar - Desarrollo en Entorno Cliente
+## Tareas a realizar - Desarrollo Web en Entorno Cliente
 
 Crea la lógica _frontend_ de tu app utilizando los siguientes recursos Javascript, en su _flavour_ Vanilla. Si empleas VUE para implementarlos -o cualquier otro _framework_- asegúrate de que el día de la presentación eres capaz de explicar cómo funciona dicho mecanismo en la abstracción que añade VUE o el _framework_ correspondiente.
 
