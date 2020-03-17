@@ -79,9 +79,30 @@ For this Sprint, the following tasks should have been completed:
 
 `The fulfillment of **Checkpoint 2** has an incidence of **7.5%** of the qualification of the Trimestral Project (DIW part)`
 
+## Tasques a realizar - Desarrollo en Entorno Cliente
+
+Crea la lógica _frontend_ de tu app utilizando los siguientes recursos Javascript, en su _flavour_ Vanilla. Si empleas VUE para implementarlos -o cualquier otro _framework_- asegúrate de que el día de la presentación eres capaz de explicar cómo funciona dicho mecanismo en la abstracción que añade VUE o el _framework_ correspondiente.
+
+ - Scripting del DOM: selección de objetos DOM, creación, actualización y eliminación.
+ - Proceso de `Arrays` con _high order functions_.
+ - Uso de las funciones `Arrays.from()` y `Arrays.of()`, y `Arrays.prototype`.
+ - Uso de _high order functions_: `map()`, `filter()`, `reduce()`, y las que procedan.
+ - Uso de las colecciones `set`y `map`.
+ - Declarar y registrar eventos en objetos del DOM.
+ - Manejo de las fases _bubbling_ y _capturing_.
+ - Uso del `localStorage`.
+ - Uso de la API `fetch` con `GET, POST, DELETE, UPDATE` de `HTTP`
+ - Uso de los objetos `request` y `response`.
+ - Uso de formularios HTML y cancelacion de eventos.
+ - Uso de la API `promise` del modo ejemplificado en clase.
+ - Manejo de errores mediante `promises` y `fecth`.
+
+
 ## HAND OUT
 
 - [ ] The source code of your app should be available in a repositori on Github. 
 - [ ] If you've deployed your application on Heroku or AWS, please place the *url* on top of the README.MD file
 
 And, FIRST OF ALL, please insert the url to your repository [in this Google Sheet](https://docs.google.com/spreadsheets/d/1FixUlq-GTvYyesiMveXqQXBJHB8PvEcZjMoXzAhiySw/edit#gid=0). THANKS!
+
+
