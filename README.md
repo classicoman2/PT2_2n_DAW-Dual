@@ -6,7 +6,7 @@ Projecte del segon curs del cicle de DAW DUAL del CIFP Francesc de Borja Moll (2
   * [Descripció](#descripcio)
   * [Tasques a realizar - Design of Web Interfaces](#tasques-a-realizar---design-of-web-interfaces)
     + [(1) Technical Requirements](#1-technical-requirements)
-    + [(2) Visual and Accessibility Requirements](#2-visual-and-accessibility-requirements)
+    + [(2) Visual Requirements](#2-visual-requirements)
     + [(3) Accessibility Requirements](#3-accessibility-requirements)
     + [(4) Project Management Requirements](#4-project-management-requirements)
     + [(5) Recomendations](#5-recomendations)
