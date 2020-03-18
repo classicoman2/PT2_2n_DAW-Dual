@@ -33,10 +33,9 @@ Create the interface according to the following requirements:
 - [ ] Use **Vue.js** to create the structure of the layout, taking advantage of _Vue Components_
 - [ ] Use a **library** to create the layout. You can use any front library you want
 
-### (2) Visual and Accessibility Requirements
+### (2) Visual Requirements
 
 - [ ] Follow as much as possible the usability and UX principles we've seen in class when creating the layouts of your application
-- [ ] **NEW!** Follow the Accessibility principles seen in class in the input fields and labels of your application and in the filtering fields.
 
 ### (3) Accessibility Requirements
 
